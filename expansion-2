@@ -3,3 +3,10 @@
 ['rabbit', ':rabbit:'],
 ['rabbits', ':rabbit:'],
 ['kill', ':knife:'],
+['killing', ':knife:']
+['kills', ':knife:']
+['killed', ':knife:']
+['killer', ':knife:']
+['killers', ':knife:']
+['sunrise', ':city_sunrise:']
+['sunset', ':city_sunset:']
